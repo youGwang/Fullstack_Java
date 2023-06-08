@@ -11,7 +11,7 @@ public class Ari extends Thread{
 	}
 	
 	
-	
+
 	
 	//Thread 클래스 => run 메서드 오버라이딩(빈깡통)
 	//run -> 실제 실행할 기능 정의, 하나의 쓰레드가 수행할 한가지 작업

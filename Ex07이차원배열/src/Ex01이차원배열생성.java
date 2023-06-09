@@ -3,6 +3,7 @@ public class Ex01이차원배열생성 {
 
 	public static void main(String[] args) {
 		
+		
 		int[][] arr = new int[3][5]; //배열생성시 크기 무조건 지정
 		//일차원배열 3개 -> 5칸(길이 5)
 		//레퍼런스배열 1개 -> 길이 3

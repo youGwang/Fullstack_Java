@@ -8,7 +8,7 @@ public class Ex01for문 {
 			System.out.print(i+" ");
 		}
 		 */
-		
+	
 		
 		/*
 		 // 2 시작점 : 96 도착점 : 53 보폭 : -1

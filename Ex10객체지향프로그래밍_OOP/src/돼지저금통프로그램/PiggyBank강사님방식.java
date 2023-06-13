@@ -3,7 +3,7 @@ package 돼지저금통프로그램;
 import java.util.Scanner;
 
 public class PiggyBank강사님방식 {
-
+ 
 	public static void main(String[] args) {
 		System.out.println("===돼지 저금통===");
 		//돼지 저금통 객체 생성

@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class Ex04배열실습 {
-
+ 
 	public static void main(String[] args) {
 		
 		//랜덤 객체

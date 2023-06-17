@@ -7,7 +7,7 @@ public class Ex04매x리o {
 		System.out.println(getName());
 		// "서유광"
 	}
-
+ 
 	
 	// getName() 만들기 : 매개변수x 리턴타입o
 	// () ---> ()

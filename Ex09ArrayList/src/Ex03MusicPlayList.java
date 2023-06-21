@@ -48,7 +48,7 @@ public class Ex03MusicPlayList {
 					musiclist.add(number - 1, music);
 
 				}
-
+      
 			} else if (number == 2) {
 				System.out.print("[1]선택삭제 [2]전체삭제 >> ");
 				number = sc.nextInt();

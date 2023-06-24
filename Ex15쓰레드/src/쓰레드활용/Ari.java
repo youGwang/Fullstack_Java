@@ -3,7 +3,7 @@ package 쓰레드활용;
 //여러개 스킬을 동시 사용가능 -> 멀티쓰레딩
 //1. Thread 클래스를 확장(상속)
 public class Ari extends Thread{
-	
+	 
 	private String skill;
 	
 	public Ari(String key) {

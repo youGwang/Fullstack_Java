@@ -17,7 +17,7 @@ public class Ex03산술연산 {
 		
 		printf 사용법 : System.out.printf("평균 : %.2f",(java+web+android)/3.0)
 		
-		*/
+		*/ 
 		
 		 
 

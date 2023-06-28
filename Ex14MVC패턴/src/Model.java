@@ -8,7 +8,7 @@ public class Model {
    private String songName; //음악제목
    private String singer; //가수이름
    private int playTime; //음악길이(s)
-   private String musicPath; //음악파일 경로
+   private String musicPath; //음악파일 경로 
    
    //생성자
    public Model(String songName, String singer, int playTime, String musicPath) {

@@ -7,7 +7,7 @@ public class Ari2 implements Runnable {
 
 	public Ari2(String key) {
 		this.skill = key;
-	}
+	} 
 
 	@Override
 	public void run() {

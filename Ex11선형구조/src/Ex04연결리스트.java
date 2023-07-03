@@ -2,7 +2,7 @@ import java.util.LinkedList;
 
 public class Ex04연결리스트 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		LinkedList<Integer> list = new LinkedList<Integer>();
 		
 		list.addFirst(1); //가장 앞에 데이터 추가 0

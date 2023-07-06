@@ -5,7 +5,7 @@ public class IntStack {
 	//필드
 	private int[] stk; //값을 저장할 배열
 	private int capacity; //스택의 용량 (최대 몇개의 데이터가 저장될수 있는지)
-	private int ptr; //스택 포인터 (현재까지 쌓여 있는 데이터의 수 나타냄)
+	private int ptr; //스택 포인터 (현재까지 쌓여 있는 데이터의 수 나타냄) 
 					 //비어있으면 -> 0 / 가득 차있으면 -> capacity
 	
 	//생성자(메서드)

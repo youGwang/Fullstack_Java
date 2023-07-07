@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class JDBC회원관리 {
 
-   public static void main(String[] args) {
+   public static void main(String[] args) { 
       
       Scanner sc = new Scanner(System.in);
 

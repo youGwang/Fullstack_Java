@@ -7,7 +7,7 @@ public class question3 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		
+		//나이 사용자 출력
 		System.out.print("나이 >> ");
 		int age = sc.nextInt();
 		

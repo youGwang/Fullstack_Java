@@ -2,7 +2,7 @@
 public class Ex02비정방형배열생성 {
 
 	public static void main(String[] args) {
-		
+		 
 		//비정방형배열생성
 		//1. 이차원배열 레퍼런스 배열과 변수 생성 및 선언		
 		int[][] arr = new int[5][];

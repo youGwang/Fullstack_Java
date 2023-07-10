@@ -1,5 +1,5 @@
 CREATE TABLE member(
-	id varchar2(200),
+	id varchar2(200),   
 	pw varchar2(200),
 	nick varchar2(200)
 )

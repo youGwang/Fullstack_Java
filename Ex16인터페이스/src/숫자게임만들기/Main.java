@@ -1,7 +1,7 @@
 package 숫자게임만들기;
 
 import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class Main {
 

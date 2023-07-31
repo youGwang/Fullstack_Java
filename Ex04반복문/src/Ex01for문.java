@@ -9,7 +9,7 @@ public class Ex01for문 {
 		}
 		 */
 	
-		
+		  
 		/*
 		 // 2 시작점 : 96 도착점 : 53 보폭 : -1
 		for(int i =96;i>52;i--) {

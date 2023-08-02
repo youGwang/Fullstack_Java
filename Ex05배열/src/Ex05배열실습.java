@@ -10,7 +10,7 @@ public class Ex05배열실습 {
 		int[] score = new int[5];
 	
 		
-		for(int i=0;i<score.length;i++) {
+		for(int i=0;i<score.length;i++) { 
 			System.out.print(i+1 +"번쨰 입력>> ");
 			score[i] = sc.nextInt();
 		}

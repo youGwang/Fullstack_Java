@@ -4,7 +4,7 @@ public class Student {
 	// 필드
 	private String stuName;
 	private String stuNum;
-	private int javaScore;
+	private int javaScore; 
 	private int dbScore;
 	private int webScore;
 	

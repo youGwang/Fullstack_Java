@@ -6,7 +6,7 @@ public class Ex03산술연산 {
 		/*Scanner sc = new Scanner(System.in);
 		System.out.print("JAVA 점수 입력: ");
 		double java = sc.nextDouble();
-		System.out.print("WEB 점수 입력: ");
+		System.out.print("WEB 점수 입력: "); 
 		double web = sc.nextDouble();
 		System.out.print("ANDROID 점수 입력: ");
 		double android = sc.nextDouble();

@@ -5,7 +5,7 @@ public class Ex07다중ifelse문 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("A,B,C 중 하나 입력 : ");
+		System.out.print("A,B,C 중 하나 입력 : ");  
 		String alpha = sc.next();
 		
 		
